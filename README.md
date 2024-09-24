@@ -1,2 +1,2 @@
 # Romer
-Shop App
+Shop App using React.js
